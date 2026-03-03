@@ -1,12 +1,12 @@
-# 👋 Привет, я Павел
+#### 👋 Привет, я Павел
 
 > 🔬 ML-инженер | 🎙️ Speech Tech | 🐍 Python | 🚀 Production-ready решения
 
 ---
 
-## 🎯 Основные проекты
+### 🎯 Основные проекты
 
-### 🎙️ [asr_service](https://github.com/pavell3333/asr_service)
+#### 🎙️ [asr_service](https://github.com/pavell3333/asr_service)
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/gRPC-000000?style=flat-square&logo=grpc&logoColor=white" alt="gRPC"> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"> <img src="https://img.shields.io/badge/Triton-000000?style=flat-square&logo=nvidia&logoColor=green" alt="Triton">
 
@@ -23,7 +23,7 @@
 
 ---
 
-### 🗣️ [ecapa-tdnn](https://github.com/pavell3333/ecapa-tdnn)
+#### 🗣️ [ecapa-tdnn](https://github.com/pavell3333/ecapa-tdnn)
 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"> <img src="https://img.shields.io/badge/Librosa-B31B1B?style=flat-square&logo=python&logoColor=white" alt="Librosa">
 
@@ -39,9 +39,9 @@
 
 ---
 
-## 🧪 Эксперименты и исследования
+### 🧪 Эксперименты и исследования
 
-### 🚗 [car_num](https://github.com/pavell3333/car_num)
+#### 🚗 [car_num](https://github.com/pavell3333/car_num)
 
 <img src="https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV">
 
@@ -55,7 +55,7 @@
 
 ---
 
-### 📓 [notebooks](https://github.com/pavell3333/notebooks)
+#### 📓 [notebooks](https://github.com/pavell3333/notebooks)
 
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" alt="Matplotlib">
 
@@ -68,7 +68,7 @@
 
 ---
 
-## 🛠️ Технологический стек
+### 🛠️ Технологический стек
 
 **🎙️ Speech & Audio:** ASR • Speaker Verification • VAD • Librosa • Torchaudio
 
