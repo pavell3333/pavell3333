@@ -11,7 +11,7 @@
 
 **⚡ Высокопроизводительный streaming ASR-сервис с верификацией спикера**
 
-- 🔄 **API** — Совместим с Yandex SpeechKit STT API v2(gRPC/REST)
+- 🔄 **API** 
 - 🧠 **Инференс** — NVIDIA Triton + T-one CTC пайплайн
 - 🔍 **VAD** — Silero VAD + KenLM для пост-обработки
 - 🗄️ **Верификация:** Поиск эмбеддингов спикеров (ECAPA-TDNN) в Qdrant за <50ms среди 10k+ голосов.
